@@ -1,0 +1,29 @@
+/*************
+     Fonts 
+ ************/
+/* @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&family=Lobster&family=Poppins:wght@400;500&family=Yeseva+One&display=swap"); */
+
+body {
+  /* font-family: "Poppins", sans-serif; */
+}
+
+h1 {
+  font-size: 2.5em;
+}
+.fa-angle-left,
+.fa-angle-right {
+  font-size: 30px;
+}
+#carouselExampleControlsNoTouching {
+  background-color: #feeae8;
+}
+.buy-now-btn {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  border-radius: 10px;
+  padding: 9px 25px;
+  border: none;
+  color: white;
+}
+.doller {
+  color: #ff136f;
+}
