@@ -11,8 +11,12 @@ h1 {
 .fa-angle-right {
   font-size: 30px;
 }
-#carouselExampleInterval {
+#carouselExampleInterval,
+#subscribe {
   background-color: #feeae8;
+}
+#subscribe {
+  height: 300px;
 }
 .buy-now-btn {
   background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
@@ -23,4 +27,25 @@ h1 {
 }
 .doller {
   color: #ff136f;
+}
+
+.cat-img img {
+  width: 100px;
+}
+
+.category {
+  border-radius: 15px;
+  color: white;
+}
+.cat-1 {
+  background-color: orange;
+}
+.cat-2 {
+  background-color: orchid;
+}
+.cat-3 {
+  background-color: blue;
+}
+.custom-design-btn {
+  background-image: linear-gradient(to bottom, #ff72a8 0%, #ff136f 100%);
 }
