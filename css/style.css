@@ -1,51 +1,64 @@
 /*************
      Fonts 
  ************/
+
+
 /* @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&family=Lobster&family=Poppins:wght@400;500&family=Yeseva+One&display=swap"); */
+
+
 /* font-family: "Poppins", sans-serif; */
 
 h1 {
-  font-size: 2.5em;
+    font-size: 2.5em;
 }
+
 .fa-angle-left,
 .fa-angle-right {
-  font-size: 30px;
+    font-size: 30px;
 }
+
 #carouselExampleInterval,
 #subscribe {
-  background-color: #feeae8;
+    background-color: #feeae8;
 }
+
 #subscribe {
-  height: 300px;
+    height: 300px;
 }
+
 .buy-now-btn {
-  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
-  border-radius: 10px;
-  padding: 9px 25px;
-  border: none;
-  color: white;
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    border-radius: 10px;
+    padding: 9px 25px;
+    border: none;
+    color: white;
 }
+
 .doller {
-  color: #ff136f;
+    color: #ff136f;
 }
 
 .cat-img img {
-  width: 100px;
+    width: 100px;
 }
 
 .category {
-  border-radius: 15px;
-  color: white;
+    border-radius: 15px;
+    color: white;
 }
+
 .cat-1 {
-  background-color: orange;
+    background-color: orange;
 }
+
 .cat-2 {
-  background-color: orchid;
+    background-color: orchid;
 }
+
 .cat-3 {
-  background-color: blue;
+    background-color: blue;
 }
+
 .custom-design-btn {
-  background-image: linear-gradient(to bottom, #ff72a8 0%, #ff136f 100%);
+    background-image: linear-gradient(to bottom, #ff72a8 0%, #ff136f 100%);
 }
